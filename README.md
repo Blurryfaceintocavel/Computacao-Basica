@@ -1,5 +1,6 @@
-# Computa-o
-basico
+# Computação básica
+
+Aqui vai uma explicação
 
 ```mermaid
 graph TD
